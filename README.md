@@ -10,13 +10,14 @@ Estudante de Defesa Cibernetica no Polo Estacio Piumhi MG . Formação tecnica e
 
 ### Habilidades
 
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 ![Sass](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass&logoColor=CD6799)
-![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)﻿
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)﻿
 # Astro Jumper
 
 Astro Jumper — Jogo de plataforma feito com Pygame Zero.
@@ -85,4 +86,5 @@ Licença e Créditos
 - Recursos (imagens/sons) obtidos de fontes gratuitas; substitua conforme desejado.
 
 # Astro-Jumper
+
 
