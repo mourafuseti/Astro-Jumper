@@ -24,8 +24,9 @@ Estudante de Defesa Cibernetica no Polo Estacio Piumhi MG . Formação tecnica e
 
 Astro Jumper — Jogo de plataforma feito com Pygame Zero.
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtu.be/ZP2Rc5CjNiM](https://youtu.be/ZP2Rc5CjNiM))
-
+Demo :
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+https://youtu.be/ZP2Rc5CjNiM
 
 Descrição
 - Jogo simples de plataforma com coleta de moedas, inimigos, músicas e um menu inicial.
@@ -91,6 +92,7 @@ Licença e Créditos
 - Recursos (imagens/sons) obtidos de fontes gratuitas; substitua conforme desejado.
 
 # Astro-Jumper
+
 
 
 
