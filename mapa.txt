@@ -1,0 +1,29 @@
+game/
+├── pgzero_game.py      ← arquivo principal (rode com: pgzrun pgzero_game.py)
+├── imagem/
+│   ├── hero_idle/      ← 4 imagens: hero_idle_0.png até hero_idle_3.png
+│   ├── hero_run/       ← 6 imagens: hero_run_0.png até hero_run_5.png
+│   ├── hero_jump.png   ← 1 imagem
+│   ├── hero_fall.png   ← 1 imagem
+│   ├── alien_idle/     ← 4 imagens
+│   ├── alien_walk/     ← 4 imagens
+│   ├── platform.png
+│   ├── bg.png          ← fundo do espaço
+│   └── coin.png
+└── som/
+    ├── jump.wav
+    ├── coin.wav
+    ├── hurt.wav
+    ├── bg_music.ogg    ← música loop
+    └── click.wav
+
+  Imagem,Largura × Altura Recomendada,Observação
+bg.png,1920 × 1080,Fundo espacial – cobre a tela toda
+platform.png,900 × 100 ou 500 × 50,Plataforma – código estica para o tamanho da plataforma
+coin.png,70 × 70,Moeda – redonda ou quadrada
+hero_idle_0.png até hero_idle_3.png (4 frames idle/parado),100 × 150,Herói respirando/parado
+hero_run_0.png até hero_run_5.png (6 frames corrida),100 × 150,Herói correndo (pernas mexendo)
+hero_jump.png,100 × 150,Herói pulando (subindo)
+hero_fall.png,100 × 150,Herói caindo
+alien_idle_0.png até alien_idle_3.png (4 frames idle),120 × 120,Alien parado (olhos piscando/cauda)
+alien_walk_0.png até alien_walk_3.png (4 frames walk),120 × 120,Alien andando (patas/cauda mexendo)  
