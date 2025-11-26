@@ -18,12 +18,13 @@ Estudante de Defesa Cibernetica no Polo Estacio Piumhi MG . Formação tecnica e
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 # Astro Jumper
 
 Astro Jumper — Jogo de plataforma feito com Pygame Zero.
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@seu-canal-aqui](https://youtu.be/ZP2Rc5CjNiM))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtu.be/ZP2Rc5CjNiM](https://youtu.be/ZP2Rc5CjNiM))
 
 
 Descrição
@@ -90,6 +91,7 @@ Licença e Créditos
 - Recursos (imagens/sons) obtidos de fontes gratuitas; substitua conforme desejado.
 
 # Astro-Jumper
+
 
 
 
