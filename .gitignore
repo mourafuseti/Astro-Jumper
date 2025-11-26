@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+dist/
+build/
+eggs/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+htmlcov/
+coverage.xml
+
+# PyBuilder
+.pybuilder/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+python-version
+
+# mypy
+.mypy_cache/
+
+# IDEs and editors
+.idea/
+.vscode/
+__pycache__/
+*.swp
+*.swo
+*.swn
+*.kate-swp
+*.directory
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
+*.db
+
+# Pygame Zero / Assets
+# Keep image and sound assets under version control unless intentionally ignored.
+# If you want to ignore large asset folders, uncomment lines below and adjust:
+# images/
+# sounds/
+# music/
+
+# Misc
+*.bak
+*.tmp
